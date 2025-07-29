@@ -1,1 +1,1 @@
-print(" This is jenkins job with github link:)
+print(" This is jenkins job with github link")
